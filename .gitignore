@@ -130,3 +130,5 @@ dmypy.json
 .pyre/
 # Project stuff
 instance/
+*.sqlite3
+*.db
