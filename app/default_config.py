@@ -1,0 +1,9 @@
+SERVER_NAME = 'localhost:5000'
+
+# Database
+SQLALCHEMY_DATABASE_URI = "sqlite:///gitdb.sqlite3"
+SQLALCHEMY_ECHO = False
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+
+SECRET_KEY = ""
+SECURITY_PASSWORD_SALT = ""
